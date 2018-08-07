@@ -6,7 +6,7 @@
 
 ### One Semicolon for the Dark Lord on his dark throne
 
-All the goodness of [feross/standard] with semicolons sprinkled on top.
+All the goodness of [feross/standard] and [Flet/semistandard] with 4 space indents.
 
 ## Install
 
@@ -18,7 +18,8 @@ npm install semistandard
 
 Importantly:
 
-- **semicolons**
+- **4 Space indents**
+- **semicolons** from [Flet/semistandard]
 - Check [feross/standard] for the rest of the rules.
 
 ## Badge
